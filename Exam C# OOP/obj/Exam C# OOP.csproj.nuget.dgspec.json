@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Back-End\\Exams\\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki -C# OOP Exam\\ExamC#OOP\\Exam C# OOP\\Exam C# OOP.csproj": {}
+  },
+  "projects": {
+    "E:\\Back-End\\Exams\\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki -C# OOP Exam\\ExamC#OOP\\Exam C# OOP\\Exam C# OOP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Back-End\\Exams\\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki -C# OOP Exam\\ExamC#OOP\\Exam C# OOP\\Exam C# OOP.csproj",
+        "projectName": "Exam C# OOP",
+        "projectPath": "E:\\Back-End\\Exams\\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki -C# OOP Exam\\ExamC#OOP\\Exam C# OOP\\Exam C# OOP.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "E:\\Back-End\\Exams\\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki -C# OOP Exam\\ExamC#OOP\\Exam C# OOP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
